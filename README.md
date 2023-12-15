@@ -45,7 +45,10 @@
   You can test this project by running "node index.js" on your local computer
   ```
   
-  
+  ## Video
+
+https://github.com/thefrenchman1/readme-assistance/assets/139165770/d4374565-af5b-4064-8bbc-4291555fa955
+
   ## Questions 
   
   Have some questions? Send me an email at darvidian123456@gmail.com. Find more of my projects at [thefrenchman1](https://github.com/thefrenchman1/).
