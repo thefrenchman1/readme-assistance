@@ -47,7 +47,9 @@
   
   ## Video
 
-https://github.com/thefrenchman1/readme-assistance/assets/139165770/d4374565-af5b-4064-8bbc-4291555fa955
+
+https://github.com/thefrenchman1/readme-assistance/assets/139165770/b6115e6e-4128-4d95-8db5-4173c26a5fe8
+
 
   ## Questions 
   
