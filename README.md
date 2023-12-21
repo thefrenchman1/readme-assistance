@@ -7,9 +7,9 @@
   
   ## Table of Contents
   
-  * [Installation](#Installation)
+  * [Installation](#installation)
   
-  * [Usage](#Usage)
+  * [Usage](#usage)
   
 * [License](#license)
 
